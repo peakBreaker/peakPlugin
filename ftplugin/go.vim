@@ -1,6 +1,5 @@
 augroup go
     au!
-	echom "Running the peakPlugin golang vim plugin!"
     " vim-go
     let g:go_list_type = "quickfix"
     let g:go_fmt_command = "goimports"
